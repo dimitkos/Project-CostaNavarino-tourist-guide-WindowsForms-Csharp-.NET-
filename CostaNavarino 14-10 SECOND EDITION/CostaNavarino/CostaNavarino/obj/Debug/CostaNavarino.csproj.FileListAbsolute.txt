@@ -1,0 +1,467 @@
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojAssemblyReference.cache
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Aris\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\Alepis Project\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 21-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 24-9\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 1-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 5-10 third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 8-10 Third edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 10-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\navarino project without db\CostaNavarino 11-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user+first+visitor\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn user first visitor activities destinations\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\cn golf+map+ola(ektos calendar)\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\τελικο με φορμες ετοιμες\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Second Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\Costa Navarino 12-10Third Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 12-10 Fourth Edition\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 13-10 THIRD EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MailForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MailForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\δημιοθργια γραφικων costa navarino\CostaNavarino 14-10\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe.config
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\bin\Debug\CostaNavarino.pdb
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.ActivitiesForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.CalendarForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.DestinationForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.FirstForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Form1.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.GolfForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MailForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.MapForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.UserForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.VisitorForm.resources
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.exe
+C:\Users\Δημήτρης\Desktop\CostaNavarino 14-10 SECOND EDITION\CostaNavarino\CostaNavarino\obj\Debug\CostaNavarino.pdb
